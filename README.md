@@ -4,6 +4,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 First Please use 
 ```cmd
 npm install (run this in terminal)
+If there is no env file
+please create a .env file
+Then write MONGODB_URI=mongodb+srv://Souvik:Zstar246@cluster0.pqchhcz.mongodb.net/cve_data?retryWrites=true&w=majority&appName=Cluster0
 Then, run the development server:
 
 ```cmd
